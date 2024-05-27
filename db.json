@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "title": "asdfg",
+      "author": "dasfg",
+      "content": "adsfghhd",
+      "id": 1
+    },
+    {
+      "title": "",
+      "author": "",
+      "content": "",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {}
+}
